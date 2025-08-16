@@ -15,6 +15,34 @@
       "when": 1755143359029,
       "tag": "0001_breezy_dracula",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755311781869,
+      "tag": "0002_wandering_dakota_north",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755311879617,
+      "tag": "0003_high_guardsmen",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755312878533,
+      "tag": "0004_red_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1755313820356,
+      "tag": "0005_unknown_norrin_radd",
+      "breakpoints": true
     }
   ]
 }
